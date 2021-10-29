@@ -1,6 +1,6 @@
 class Student {
-    constructor(fullname, direction) {
-        this._fullname = fullname;
+    constructor(fullName, direction) {
+        this._fullName = fullName;
         this._direction = direction;
     }
 
